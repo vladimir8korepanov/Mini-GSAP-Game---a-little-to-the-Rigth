@@ -1,4 +1,4 @@
-import { getShadowXY } from './shadowCalculations.jsъ';
+import { getShadowXY } from './shadowCalculations.js';
 
 export const adjustPicture = (rotation, duration = 0) => {
     // Обновляет тени и блики при повороте изображения.
