@@ -23,7 +23,7 @@
 
 ```bash
 - Клонировать и играть
-git clone <ваш-репозиторий>
+git clone https://github.com/vladimir8korepanov/Mini-GSAP-Game---a-little-to-the-Rigth.git
 cd "Mini GSAP Game - a little to the Rigth"
 
 - Установить зависимости
